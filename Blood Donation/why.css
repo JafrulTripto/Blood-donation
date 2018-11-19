@@ -1,0 +1,17 @@
+table
+{
+   margin: 0px 125px 0px 125px;
+   padding: 10px;
+}
+table tr, td
+{
+   padding: 10px;
+}
+h2,h3
+{
+	color: #ef4a09;
+}
+h4,p
+{
+	color: #cc8af2;
+}

@@ -1,0 +1,38 @@
+
+.basic
+{
+	background-color: #e0dcd9;
+	padding: 30px;
+	margin: 5px 135px 5px 135px;
+
+}
+.major
+{
+	background-color: #fcf5ef;
+	padding: 30px;
+	margin: 5px 135px 5px 135px;
+
+}
+.reason
+{
+	background-color: #e0dcd9;
+	padding: 30px;
+	margin: 5px 135px 5px 135px;
+
+}
+.madication
+{
+
+	background-color: #fcf5ef;
+	padding: 30px;
+	margin: 5px 135px 5px 135px;
+
+}
+h2
+{
+	color: #cc8af2;
+}
+h4,p
+{
+	color: #ef4a09;
+}
